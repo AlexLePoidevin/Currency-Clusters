@@ -20,7 +20,6 @@ The author retains all rights to the paper and its contents and reserves the rig
 
 ## How to Navigate
 - To access the paper, navigate to the **Currency Clusters**. 
-- Data used for the study are also available 
 
 
 ## Contributing
